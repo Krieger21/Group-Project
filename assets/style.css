@@ -35,7 +35,7 @@ font: 400 100px/1.3 'Arizonia', Helvetica, sans-serif;
 }
 
 #home {
-    background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+    background-image: linear-gradient(to bottom, #32a5c2, #2079b0);
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
@@ -52,7 +52,7 @@ font: 400 100px/1.3 'Arizonia', Helvetica, sans-serif;
 }
 
 #out {
-    background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+    background-image: linear-gradient(to bottom, #eb94d0, #eb94d0);
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
